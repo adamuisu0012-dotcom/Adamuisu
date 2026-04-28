@@ -1,23 +1,34 @@
-# SignalX PRO 🚀
+SignalX PRO 🚀
 
-SignalX PRO is a simple crypto trading dashboard that helps traders:
+SignalX PRO is a simple crypto trading dashboard that helps traders make better decisions and avoid emotional trading.
 
-- Track market trends 📊  
-- Get BUY / HOLD / SELL signals  
-- Avoid emotional trading  
+📊 Features
 
-## Features
-- BTC, ETH, SOL signals  
-- Market trend analysis  
-- Trading notes  
+- Track market trends 📈
+- Get BUY / HOLD / SELL signals
+- Avoid emotional trading
+- BTC, ETH, SOL signals
+- Market trend analysis
+- Trading notes
 
-## Live Demo
+🚀 Live Demo
+
 Coming soon...
 
-## Future Plans
-- Integrate SoSoValue API ⚡  
-- Add real-time data  
-- Build trading bot  
+🔮 Future Plans
 
-## Author
+- Integrate SoSoValue API ⚡
+- Add real-time market data
+- Build automated trading bot
+
+🛠️ Installation
+
+Coming soon...
+
+📖 Usage
+
+Coming soon...
+
+👨‍💻 Author
+
 Adam (ISU)
