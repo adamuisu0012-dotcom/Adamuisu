@@ -1,4 +1,4 @@
-# SignalX PRO 🚀
+## SignalX PRO 🚀
 
 SignalX PRO is a simple crypto trading dashboard that helps traders make better decisions and avoid emotional trading.
 
@@ -11,7 +11,7 @@ SignalX PRO is a simple crypto trading dashboard that helps traders make better 
 - Market trend analysis
 - Trading notes
 
-🚀 Live Demo
+##🚀 Live Demo
 
 Coming soon...
 
@@ -21,7 +21,7 @@ Coming soon...
 - Add real-time market data
 - Build automated trading bot
 
-🛠️ Installation
+##🛠️ Installation
 
 Coming soon...
 
