@@ -23,3 +23,10 @@ Coming soon...
 
 ## 📖 Usage
 Coming soon...
+
+## 📊 Features
+
+- Real-time crypto prices
+- BUY / HOLD / SELL signals
+- Market trend analysis
+- Signal history tracking
