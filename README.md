@@ -11,9 +11,22 @@ SignalX PRO is a simple crypto trading dashboard that helps traders make better 
 - Market trend analysis
 - Trading notes
 
-## 🚀 Live Demo
+# 🚀 My First Website
 
-Coming soon...
+This is my first website built with Vercel and AI (v0).
+
+🌍 Live Demo  
+👉 https://v0-my-first-website-ten.vercel.app
+
+🛠️ Tech Used
+
+- Vercel
+- v0 AI
+- HTML / React
+
+📌 Author
+
+Adamu Ismaila
 
 🔮 Future Plans
 
@@ -29,6 +42,6 @@ Coming soon...
 
 Coming soon...
 
-👨‍💻 Author
+📌 Author
 
-Adam (ISU)
+Adamu Ismaila
