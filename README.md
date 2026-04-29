@@ -1,6 +1,7 @@
-# 🚀 My First Website
+# 🚀 SignalX PRO
 
-This is my first website built with Vercel and AI (v0).
+SignalX PRO is a real-time crypto trading 
+dashboard that provides smart BUY / HOLD / SELL signals using market data
 
 ## 🌍 Live Demo 
 https://v0-my-first-website-ten.vercel.app/
