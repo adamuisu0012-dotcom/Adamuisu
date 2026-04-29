@@ -31,3 +31,8 @@ Coming soon...
 - BUY / HOLD / SELL signals
 - Market trend analysis
 - Signal history tracking
+- 
+- ## ⭐ Support
+  
+
+If you like this project, please star the repo ⭐
