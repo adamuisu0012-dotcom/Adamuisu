@@ -11,6 +11,9 @@
 
   <h2>BTC Price: <span id="btc-price">Loading...</span></h2>
 
+  <!-- BUTTON -->
+  <button onclick="sayHi()">Click Me</button>
+
   <script>
     let change = 3;
 
@@ -26,14 +29,12 @@
 
     getBTCPrice();
     setInterval(getBTCPrice, 10000);
+
+    // BUTTON FUNCTION
+    function sayHi() {
+      alert("🔥 You are learning JavaScript!");
+    }
   </script>
 
 </body>
 </html>
-<button onclick="sayHi()">Click Me</button>
-
-<script>
-function sayHi() {
-  alert("🔥 You are learning JavaScript!");
-}
-</script>
