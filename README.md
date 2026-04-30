@@ -36,4 +36,3 @@ Coming soon...
 
 If you like this project, please star the repo ⭐
 
-BTC price live
